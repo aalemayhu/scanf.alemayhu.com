@@ -11,8 +11,6 @@ sass:
   precision: 10
 plugins:
   - jekyll-menus
-  - jekyll-seo-tag
-  - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
